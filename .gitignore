@@ -1,0 +1,67 @@
+# Python 관련
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# 환경 설정 파일
+.env
+
+# 데이터 파일
+data/*.csv
+
+# 기타
+*.log
+
+# Python 가상환경
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MyPy cache
+.mypy_cache/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+coverage.xml
+nosetests.xml
+test-results.xml
