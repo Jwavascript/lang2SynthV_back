@@ -3,7 +3,7 @@ import os
 
 # CSV 파일 경로
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-CSV_FILE_PATH = os.path.join(BASE_DIR, "../data", "synsVipa.csv")
+CSV_FILE_PATH = os.path.join(BASE_DIR, "../data", "synsvipa.csv")
 
 # CSV 데이터 로드
 def load_csv_data(file_path):
