@@ -22,7 +22,7 @@ app = FastAPI()
 CORS_ORIGIN = os.getenv("CORS_ORIGIN")
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[CORS_ORIGIN],
+    allow_origins=["https://lang2synthv.vercel.app", "https://lang2synthv-3ek7nicjd-jwavascripts-projects.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
