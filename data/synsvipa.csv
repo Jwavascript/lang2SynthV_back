@@ -1,0 +1,365 @@
+ipa,synthv,language
+ä,a,Japanese
+i,i,Japanese
+ɯ̹,u,Japanese
+e̞,e,Japanese
+o̞,o,Japanese
+k,k,Japanese
+kʲ,ky,Japanese
+s,s,Japanese
+ɕ,sh,Japanese
+t,t,Japanese
+tʲ,ty,Japanese
+t͡ɕ,ch,Japanese
+t͡s,ts,Japanese
+n,n,Japanese
+nʲ,ny,Japanese
+h,h,Japanese
+çʲ,hy,Japanese
+ɸ,f,Japanese
+m,m,Japanese
+mʲ,my,Japanese
+j,y,Japanese
+ɾ,r,Japanese
+ɾʲ,ry,Japanese
+w,w,Japanese
+g,g,Japanese
+gʲ,gy,Japanese
+d͡z,z,Japanese
+d͡ʑ,j,Japanese
+d,d,Japanese
+dʲ,dy,Japanese
+b,b,Japanese
+bʲ,by,Japanese
+p,p,Japanese
+pʲ,py,Japanese
+ŋ,N,Japanese
+kʷ,kw,Japanese
+gʷ,gw,Japanese
+β,v,Japanese
+,,
+ɑ,aa,English
+æ,ae,English
+ʌ,ah,English
+ɔ,ao,English
+aʊ,aw,English
+ə,ax,English
+aɪ,ay,English
+ɛ,eh,English
+ɚ,er,English
+eɪ,ey,English
+ɪ,ih,English
+i,iy,English
+oʊ,ow,English
+ɔɪ,oy,English
+ʊ,uh,English
+u,uw,English
+b,b,English
+tʃ,ch,English
+ʧ,ch,English
+d,d,English
+ð,dh,English
+dɹ,dr,English
+ɾ,dx,English
+f,f,English
+ɡ,g,English
+h,hh,English
+dʒ,jh,English
+k,k,English
+l,l,English
+m,m,English
+n,n,English
+ŋ,ng,English
+p,p,English
+ɹ,r,English
+s,s,English
+ʃ,sh,English
+t,t,English
+θ,th,English
+tɹ,tr,English
+v,v,English
+w,w,English
+j,y,English
+z,z,English
+ʒ,zh,English
+,,
+p,p,Mandarin
+pʰ,ph,Mandarin
+m,m,Mandarin
+f,f,Mandarin
+t,t,Mandarin
+tʰ,th,Mandarin
+n,n,Mandarin
+l,l,Mandarin
+t͡s,ts,Mandarin
+t͡sʰ,tsh,Mandarin
+s,s,Mandarin
+ʈ͡ʂ,ts`,Mandarin
+ʈ͡ʂʰ,ts`h,Mandarin
+ʂ,s`,Mandarin
+ʐ,z`,Mandarin
+t͡ɕ,ts\,Mandarin
+t͡ɕʰ,ts\h,Mandarin
+ɕ,s\,Mandarin
+k,k,Mandarin
+kʰ,kh,Mandarin
+x,x,Mandarin
+j,j,Mandarin
+w,w,Mandarin
+ä,a,Mandarin
+ɔ,o,Mandarin
+ɯ̯ʌ,7,Mandarin
+i,i,Mandarin
+ɨ,i\,Mandarin
+ɨ˞,i`,Mandarin
+u,u,Mandarin
+y,y,Mandarin
+aɪ̯,a :\i,Mandarin
+eɪ̯,e :\i,Mandarin
+ɑʊ̯,AU,Mandarin
+ɤʊ̯,@U,Mandarin
+an,a :n,Mandarin
+ən,@ :n,Mandarin
+ɑŋ,A N,Mandarin
+ɤŋ,@ N,Mandarin
+ʊŋ,U N,Mandarin
+ɑɻ,a r\`,Mandarin
+i̯ä,ia,Mandarin
+i̯e,ie,Mandarin
+i̯ɑʊ̯,iAU,Mandarin
+i̯ɤʊ̯,i@U,Mandarin
+i̯ɛn,iE :n,Mandarin
+in,i :n,Mandarin
+i̯ɑŋ,iA N,Mandarin
+iŋ,i N,Mandarin
+i̯ʊŋ,iU N,Mandarin
+u̯ä,ua,Mandarin
+u̯ɔ,uo,Mandarin
+u̯aɪ̯,ua :\i,Mandarin
+u̯eɪ̯,ue :\i,Mandarin
+u̯än,ua :n,Mandarin
+u̯ən,u@ :n,Mandarin
+u̯ɑŋ,uA N,Mandarin
+u̯əŋ,u@ N,Mandarin
+y̯œ,yE,Mandarin
+y̯ɛn,y{ :n,Mandarin
+yn,y :n,Mandarin
+,,
+p,p,Cantonese
+pʰ,ph,Cantonese
+t,t,Cantonese
+tʰ,th,Cantonese
+k,k,Cantonese
+kʰ,kh,Cantonese
+kʷ,kw,Cantonese
+kʷʰ,kwh,Cantonese
+t͡s,ts,Cantonese
+t͡sʰ,tsh,Cantonese
+f,f,Cantonese
+s,s,Cantonese
+h,h,Cantonese
+l,l,Cantonese
+m,m,Cantonese
+n,n,Cantonese
+ŋ,N,Cantonese
+w,w,Cantonese
+j,j,Cantonese
+ɐː,a,Cantonese
+ɜ,6,Cantonese
+eː,E,Cantonese
+e,e,Cantonese
+iː,i,Cantonese
+ɪ,I,Cantonese
+oː,O,Cantonese
+o,o,Cantonese
+uː,u,Cantonese
+ʊ,U,Cantonese
+ɵː,9,Cantonese
+ɵ,8,Cantonese
+y,y,Cantonese
+m̩,m=,Cantonese
+j,:i,Cantonese
+w,:u,Cantonese
+m,:m,Cantonese
+n,:n,Cantonese
+ŋ,:N,Cantonese
+p̚,:p_},Cantonese
+t̚,:t_},Cantonese
+k̚,:k_},Cantonese
+,,
+a,a,Spanish
+e,e,Spanish
+i,i,Spanish
+o,o,Spanish
+u,u,Spanish
+w,U,Spanish
+j,I,Spanish
+ʝ,y,Spanish
+ʎ,ll,Spanish
+b,b,Spanish
+β,B,Spanish
+d,d,Spanish
+ð,D,Spanish
+g,g,Spanish
+k,k,Spanish
+p,p,Spanish
+t,t,Spanish
+l,l,Spanish
+ɾ,r,Spanish
+r,rr,Spanish
+m,m,Spanish
+n,n,Spanish
+ŋ,N,Spanish
+ɲ,J,Spanish
+f,f,Spanish
+s,s,Spanish
+θ,C,Spanish
+ʃ,sh,Spanish
+x,x,Spanish
+t͡ʃ,ch,Spanish
+,,
+,,hangulcustom
+k*,cl k,Japanese
+k͈,cl k,Japanese
+t*,cl t,Japanese
+t͈,cl t,Japanese
+p*,cl p,Japanese
+p͈,cl p,Japanese
+s*,cl s,Japanese
+s͈, cl s,Japanese
+ɰi,u i,Japanese
+jo,y o,Japanese
+ju,y u,Japanese
+ja,y a,Japanese
+ja̠,y a,Japanese
+wi,w i,Japanese
+ɯ,u,Japanese
+dʑ,j,Japanese
+j,j,Japanese
+wɛ,w eh,English
+wɛ̝,w eh,English
+jʌ,y ah,English
+jɛ,y eh,English
+jɛ̝,y eh,English
+wʌ,w ah,English
+wɛ,w eh,English
+ʨ,ts\, Mandarin
+tɕ,ts\,Mandarin
+tɕ*,cl ts`h,Mandarin
+t͡ɕ͈,cl ts`h,Mandarin
+tɕʰ,ts\h,Mandarin
+ʨʰ,ts\h,Mandarin
+wa,ua,Mandarin
+,,
+,,unsupportipa
+ʈ,t,English
+ɖ,d,Japanese
+c,ky,Japanese
+ɟ,gy,Japanese
+q,k,Japanese
+ɢ,g,Spanish
+ʔ,a,English
+ɱ,m,English
+ɳ,n,Spanish
+ɴ,N,Spanish
+ʙ,b,Spanish
+ʀ,rr,Spanish
+ɽ,rr,Spanish
+ç,sh,Spanish
+χ,x,Spanish
+ʁ,rr,Spanish
+ħ,h,Japanese
+ʕ,h,Japanese
+ɦ,h,English
+ɬ,sh,English
+ɮ,l,English
+ʋ,v,English
+ɻ,r,English
+ɰ,w,Japanese
+ɭ,l,English
+ʟ,l,Spanish
+ʉ,y,Mandarin
+ʏ,y,Mandarin
+ø,y,Mandarin
+ɘ,e,Japanese
+ɤ,u,Japanese
+œ,yE,Mandarin
+ɞ,o,Spanish
+ɐ,ax,English
+ɶ,yE,Mandarin
+ɒ,o,Spanish
+ʍ,U,Spanish
+ⱱ,v,English
+,,Symbols
+ː,Long sound,suprasegmentals
+ˌ,Secondary stress,suprasegmentals
+ˈ,Primary stress,suprasegmentals
+ˑ,Half-long,suprasegmentals
+˘,Extra-short,suprasegmentals
+|,Minor group,suprasegmentals
+‖,Major group,suprasegmentals
+.,Syllable break,suprasegmentals
+‿,Linking,suprasegmentals
+↗︎,Global Rise,suprasegmentals
+↘︎,Global Fall,suprasegmentals
+͡ ,Affricate or double articulation,diacritics
+͜ ,Affricate or double articulation,diacritics
+̥ ,Voiceless,diacritics
+̊ ,Voiceless,diacritics
+ᶿ,Voiceless dental fricative release,diacritics
+̬ ,Voiced,diacritics
+ʰ,Aspirated,diacritics
+̹ ,More rounded,diacritics
+͗ ,More rounded,diacritics
+͑ ,Less rounded,diacritics
+̜ ,Less rounded,diacritics
+̟ ,Advanced,diacritics
+̠ ,Retracted,diacritics
+̈ ,Centralized,diacritics
+̽ ,Mid-centralized,diacritics
+̩ ,Syllabic,diacritics
+̍ ,Syllabic,diacritics
+̯ ,Non-syllabic,diacritics
+̑ ,Non-syllabic,diacritics
+ᵊ,Mid-central vowel release,diacritics
+̤ ,Breathy voiced,diacritics
+̰ ,Creaky voiced,diacritics
+̼ ,Linguolabial,diacritics
+ʷ,Labialized,diacritics
+ʲ,Palatalized,diacritics
+ˠ,Velarized,diacritics
+̴ ,Velarized or Pharyngealized,diacritics
+ˤ,Pharyngealized,diacritics
+̝ ,Raised,diacritics
+˔,Raised,diacritics
+˕,Lowered,diacritics
+̞ ,Lowered,diacritics
+̘ ,Advanced tongue root,diacritics
+꭪ ,Advanced tongue root,diacritics
+̙ ,Retracted tongue root,diacritics
+꭫ ,Retracted tongue root,diacritics
+˞ ,Rhoticity,diacritics
+̪ ,Dental,diacritics
+̺ ,Apical,diacritics
+̻ ,Laminal,diacritics
+̃ ,Nasalized,diacritics
+ⁿ,Nasal release,diacritics
+ˡ,Lateral release,diacritics
+̚ ,No audible release,diacritics
+ʼ,Ejective,diacritics
+͍ ,Voiceless nasal,diacritics
+ˣ,Voiceless velar fricative release,diacritics
+͆ ,dentolabial,diacritics
+͇ ,apicolabial,diacritics
+͈ ,fortis,diacritics
+͉ ,lenis,diacritics
+͎ ,whistled,diacritics
+͢ ,sliding articulation,diacritics
+ˁ,Pharyngealized,diacritics
+˥,Extra-high Tone Bar,Tone
+˦,High Tone Bar,Tone
+˧,Mid Tone Bar,Tone
+˨,Low Tone Bar,Tone
+˩,Extra-low Tone Bar,Tone
+ꜜ,Downstep,Tone
+ꜛ,Upstep,Tone
