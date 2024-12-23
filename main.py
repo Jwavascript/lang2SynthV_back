@@ -18,9 +18,11 @@ if not OPENAI_API_KEY:
 app = FastAPI()
 
 # CORS setting
+
+CORS_ORIGIN = os.getenv("CORS_ORIGIN")
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://lang2synthv.netlify.app"],
+    allow_origins=[CORS_ORIGIN],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
